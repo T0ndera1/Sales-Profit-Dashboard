@@ -51,3 +51,4 @@ This dashboard enables stakeholders to:
 ### 🌐 Connect with Me
 - GitHub: [@T0ndera1](https://github.com/T0ndera1)  
 - LinkedIn: [https://linkedin.com/in/gracious-dikito.)
+- Email: [gracndudzo@gmail.com]
